@@ -1,0 +1,15 @@
+The receiver is not receiving satellite signals,Check antenna,The GPS antenna is not in clear line of sight to the sky.,Make sure that the GPS antenna is located with a clear view of the sky.,
+,,,Restart the receiver as a last resort (turn off and then turn it on again).,
+,,The GPS antenna is connected to the wrong antenna connector.,Make sure that the GPS antenna cable is tightly seated in the GPS antenna connection on the receiver and not connected to the wrong/radio antenna connector.,
+,,GPS antenna is damaged,Check for antenna damage,
+,,GPS antenna has open or shorts,Check for open or shorts,
+,Check cable,The cable is damaged/incorrect cable,Check the cable for any signs of damage. A damaged cable can inhibit signal detection from the antenna at the receiver.,
+,,The GPS antenna cable is loose.,Make sure that the GPS antenna cable is tightly seated in the GPS antenna connection on the GPS antenna.,
+,Surge,Check surge suppressor (If installed),Verified as OK by making two impedance checks on the input and output connectors (with the GPS antenna cable disconnected),
+,Battery,The batteries powering the GPS receiver are dead or low.,Check to see if the batteries are giving off the correct voltage,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,Antenna
+,,,,Cable
